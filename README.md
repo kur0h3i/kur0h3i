@@ -4,13 +4,11 @@
   I'm a dedicated software engineer with a strong focus on developing high-quality, scalable web applications. With a solid foundation in computer science and hands-on experience with modern frameworks, I enjoy tackling complex problems and creating user-friendly solutions.
 </p>
 
-  -  🌱 Learning Journey: Currently diving deep into React and Angular to master frontend development and enhance user experiences.
-
   -  💬 Let's Talk: I'm always open to discussing new ideas, collaboration opportunities, and innovative technologies.
 
   - 📫 Contact Me: You can reach me via email at pedropm.lolo05@gmail.com.
 
-  - ⚡ Fun Fact: When I'm not coding, I'm probably at a car meet or working on my car—cars are my other passion!
+  - ⚡ Fun Fact: When I'm not coding, I'm probably at a car meet or working on my car
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
