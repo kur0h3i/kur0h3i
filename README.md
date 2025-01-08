@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pedro-perez-06bba5238/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-p%C3%A9rez-montero-06bba5238/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
