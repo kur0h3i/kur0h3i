@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Pedro Perez</h1>
+<h1 align="center">I'm Pedro Perez Montero</h1>
 <h3 align="center">Innovative Software Engineer with a Passion for Web Development</h3>
 <p align="center">
   I'm a dedicated software engineer with a strong focus on developing high-quality, scalable web applications. With a solid foundation in computer science and hands-on experience with modern frameworks, I enjoy tackling complex problems and creating user-friendly solutions.
@@ -18,10 +18,11 @@
 </p>
 <h3 align="left">Technical Skills:</h3>
 <p align="left">
-  <strong>Languages:</strong> JavaScript, Python, Java, C, SQL<br>
-  <strong>Frontend:</strong> React, Angular, HTML5, CSS3<br>
-  <strong>Backend:</strong> Node.js, MySQL, MariaDB<br>
-  <strong>Tools & Platforms:</strong> Git, Linux, Bash, Docker<br>
+  <strong>Languages:</strong> JavaScript, Python, Java, C<br>
+  <strong>Frontend:</strong> React, Angular<br>
+  <strong>Backend:</strong>MySQL<br>
+  <strong>Tools:</strong> Git, Linux, Bash<br>
+  <strong>Abilities:</strong> Cibersecurity Skills<br>
 </p>
 <h3 align="left">Projects & Contributions:</h3>
 <p align="left">
