@@ -18,7 +18,7 @@
 </p>
 <h3 align="left">Technical Skills:</h3>
 <p align="left">
-  <strong>Languages:</strong> JavaScript, Python, Java, C<br>
+  <strong>Languages:</strong> JavaScript, Python, Java, C, C++<br>
   <strong>Frontend:</strong> React, Angular<br>
   <strong>Backend:</strong>MySQL<br>
   <strong>Tools:</strong> Git, Linux, Bash<br>
