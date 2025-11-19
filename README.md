@@ -13,6 +13,7 @@ Passionate software engineer with deep expertise in <strong>Linux systems admini
 [![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=58A6FF&style=for-the-badge)](https://github.com/kur0h3i)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kur0h3i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kur0h3i&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10)
 </div>
 
 ---
