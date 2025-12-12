@@ -12,12 +12,7 @@ Passionate software engineer focused on <strong>Linux systems</strong> and <stro
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropm.lolo05@gmail.com)
 
 <br>
-<br>
 
-<a href="https://github.com/kur0h3i">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kur0h3i&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kur0h3i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
-</a>
 
 </div>
 
