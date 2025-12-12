@@ -10,10 +10,15 @@ Passionate software engineer with deep expertise in <strong>Linux systems admini
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-p%C3%A9rez-montero-06bba5238/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropm.lolo05@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&color=58A6FF&style=for-the-badge)](https://github.com/kur0h3i)
+[![Profile Views](https://komarev.com/ghpvc/?username=kur0h3i&color=58A6FF&style=for-the-badge)](https://github.com/kur0h3i)
+
 <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kur0h3i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kur0h3i&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10)
+
+<a href="https://github.com/kur0h3i">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kur0h3i&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kur0h3i&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+</a>
+
 </div>
 
 ---
@@ -131,4 +136,4 @@ Passionate software engineer with deep expertise in <strong>Linux systems admini
 - **🕵️ Reconnaissance:** OSINT, information gathering, Google Dorking techniques
 - **🔐 Cryptography:** Hash cracking, encryption/decryption analysis, steganography
 - **🪤 Honeypots & Deception:** Deployment and analysis of security traps
-- **💉 Exploitation Framework:** Metasploit, custo
+- **💉 Exploitation Framework:** Metasploit, custom exploit development, and payload creation.
