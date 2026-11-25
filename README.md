@@ -18,7 +18,7 @@ I practice on Hack The Box and Active Directory labs, play CTFs, and build open-
 
 ## 🔐 Security
 
-- **Hack The Box:** retired-machine writeups (web exploitation, privilege escalation) → [htb-writeups](https://github.com/kur0h3i/htb-writeups)
+- **Hack The Box:** retired-machine writeups (web exploitation, privilege escalation) → [writeups](https://github.com/kur0h3i/writeups)
 - **Active Directory:** compromised a lab domain up to Domain Admin (file-upload RCE, Pass-the-Hash, SOCKS pivoting).
 - **CTFs:** SAS CTF 2026 — **58th of 1,109 teams** · HTB Cyber Apocalypse CTF 2026 — 960th of 6,743 teams.
 - **In preparation:** OffSec KLCP (PEN-103), OSCP (PEN-200), OSWP (PEN-210).
